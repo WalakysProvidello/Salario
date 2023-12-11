@@ -1,26 +1,30 @@
-# Calculo de aumento de Salario
+# Projeto de Aumento Salarial com Kivy 💰
 
-# Exemplo de Projeto em Python
+Um projeto simples em Python utilizando a biblioteca Kivy para criar uma interface gráfica que calcula o aumento salarial com base em uma porcentagem inserida pelo usuário.
 
-Um exemplo simples de projeto em Python que utiliza a biblioteca kivy para criar uma interface gráfica. Este projeto calculo aumento salarial.
+## Visão Geral 🚀
 
-🌟 Ao executar este projeto, você verá uma janela azul com um botão cinza que lê "Verificar Acesso". Digite seu nome e idade nos campos apropriados e clique no botão para verificar se você possui acesso permitido.
+Este projeto consiste em uma aplicação gráfica que permite ao usuário inserir seu salário e a porcentagem de aumento desejada. Ao pressionar o botão "Calcular", o programa realiza o cálculo e exibe o novo valor do salário, considerando o aumento.
 
-📝 **Caminho para a imagem**: 
-![image](https://github.com/WalakysProvidello/Salario/blob/12787d8f51d9ca13411e301f4c9f777da5275f04/imagem_2023-12-11_093122801.png)
+## Captura de Tela 🖼️
+
+![Captura de Tela](https://github.com/WalakysProvidello/Salario/blob/12787d8f51d9ca13411e301f4c9f777da5275f04/imagem_2023-12-11_093122801.png)
 
 🚀 **Para executar este projeto, siga estas etapas:**
 
-1. Faça o download do arquivo [exemplo_projeto.py] e coloque-o em uma pasta.
-2. Instale a biblioteca tkinter, caso ainda não o tenha feito. Você pode fazer isso executando o seguinte comando no terminal:
-3. Abra o terminal e navegue até a pasta onde você colocou o arquivo exemplo_projeto.py.
-   
+Para executar este projeto, siga estas etapas:
+
+1. Faça o download do arquivo `salario.py` e coloque-o em uma pasta.
+2. Instale a biblioteca Kivy, caso ainda não o tenha feito. Você pode fazer isso executando o seguinte comando no terminal:
+
+   ```bash
+   pip install kivy
+
 Execute o seguinte comando para iniciar o projeto:
 
 👩‍💻 Recursos utilizados:
 
-Tkinter: Uma biblioteca Python para criar interfaces gráficas de usuário (GUI).
-Pillow: Uma biblioteca Python para manipular e criar imagens.
+Kivy: Uma biblioteca Python para o desenvolvimento de interfaces gráficas de usuário (GUI).
 
 🤝 Contribuições:
 
