@@ -7,11 +7,11 @@ Um exemplo simples de projeto em Python que utiliza a biblioteca kivy para criar
 🌟 Ao executar este projeto, você verá uma janela azul com um botão cinza que lê "Verificar Acesso". Digite seu nome e idade nos campos apropriados e clique no botão para verificar se você possui acesso permitido.
 
 📝 **Caminho para a imagem**: 
-
+![image](https://github.com/WalakysProvidello/Salario/blob/12787d8f51d9ca13411e301f4c9f777da5275f04/imagem_2023-12-11_093122801.png)
 
 🚀 **Para executar este projeto, siga estas etapas:**
 
-1. Faça o download do arquivo [exemplo_projeto.py](https://github.com/seu_usuario/exemplo_projeto/blob/main/exemplo_projeto.py) e coloque-o em uma pasta.
+1. Faça o download do arquivo [exemplo_projeto.py] e coloque-o em uma pasta.
 2. Instale a biblioteca tkinter, caso ainda não o tenha feito. Você pode fazer isso executando o seguinte comando no terminal:
 3. Abra o terminal e navegue até a pasta onde você colocou o arquivo exemplo_projeto.py.
    
